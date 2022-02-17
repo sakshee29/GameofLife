@@ -29,7 +29,7 @@ proceeded it. The rules that determine the next generation are rather simple and
 
 ## Usage 
 1. Open Windows>Command Promt
-2. Change directory to the directory that stores the project
+2. Change directory to the **Life** directory that stores the project
 3. Use code <dotnet life.dll //whatever args> and run the code.
 4. The program runs with showing either an error or success for processing the command line arguments.
 
