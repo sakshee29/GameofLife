@@ -41,7 +41,11 @@ proceeded it. The rules that determine the next generation are rather simple and
 
 #### Kaleidoscope 1
     dotnet life.dll --survival 12...20 --birth 7 8 --neighbour vonNeumann 4 true --seed Seeds\kaleidoscope1_47x47.seed --dimensions 47 47 --generations 400 --max-update 30
-<img src="https://github.com/sakshee29/GameofLife/blob/main/Kaleidoscope.png" alt="Image1" width="250" height="350"/> 
+<img src="https://github.com/sakshee29/GameofLife/blob/main/Kaleidoscope.png" alt="Image2" width="250" height="300"/> 
+
+#### Target 2
+    dotnet life.dll --seed Seeds\target2_16x16.seed
+<img src="https://github.com/sakshee29/GameofLife/blob/main/target.png" alt="Image3"/> 
 
 ## Contact
 
