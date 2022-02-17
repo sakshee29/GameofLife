@@ -33,7 +33,7 @@ proceeded it. The rules that determine the next generation are rather simple and
 3. Use code <dotnet life.dll //whatever args> and run the code.
 4. The program runs with showing either an error or success for processing the command line arguments.
 
-## Example Arguments 
+## Example Command Line Arguments 
 
 #### Default
     dotnet life.dll
